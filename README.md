@@ -62,6 +62,9 @@ PARCIAL 2
 
 ##### 6. Determine I3 en el ejemplo 9-4.
 
+![image](https://user-images.githubusercontent.com/105671763/177655386-deb03436-27a2-4e7f-a959-a1537c9d8ca8.png)
+
+	
 ##### 8. Determine V1, V2, V3 y V4 resolviendo el siguiente conjunto de ecuaciones con una calculadora:
 
 ##### 10. Resuelva las tres ecuaciones simultáneas del problema 7 con su calculadora.
