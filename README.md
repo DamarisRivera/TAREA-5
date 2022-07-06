@@ -48,7 +48,6 @@ PARCIAL 2
 
 ![image](https://user-images.githubusercontent.com/105671763/177648994-9992836d-3255-4b72-ad1a-0bdfbe1b0c9e.png)
 
-
 ##### 4. Evalúe cada uno de los determinantes:
 
 ![image](https://user-images.githubusercontent.com/105671763/177649189-9e3aac81-aae6-4c5f-877e-dfc1f7f2ed3e.png)
@@ -59,7 +58,7 @@ PARCIAL 2
 
 ##### 10. Resuelva las tres ecuaciones simultáneas del problema 7 con su calculadora.
 
-##### *SECCIÓN 9- 	 Método de la corriente en ramas*
+##### *SECCIÓN 9-2	 Método de la corriente en ramas*
 
 ##### 12. Resuelva para cada una de las corrientes de rama ilustradas en la figura 9-26
 
@@ -114,50 +113,50 @@ voltajes de nodo.
 
 #### PROBLEMAS 
 
-##### *SECCIÓN 10-1 	*
+##### *SECCIÓN 10-1 	El campo magnético*
 
+##### 2. En cierto campo magnético, el área de sección transversal es de 0.5 m^2 y el flujo es de 1500 μWb. ¿Cuál es la densidad de flujo?
 
-##### 
-##### 
+##### 4. En un lugar dado, suponga que el campo magnético terrestre es de 0.6 gauss. Exprese esta densidad de flujo en teslas. 
 
-##### 
-##### 
+##### *SECCIÓN 10-2 	 Electromagnetismo*
 
-##### 
-##### 
+##### 6. ¿Qué le sucede a la aguja de la brújula mostrada en la figura 10-9 cuando la corriente que circula a través del conductor se invierte?
 
-##### 
-##### 
+![image](https://user-images.githubusercontent.com/105671763/177651109-55b9341d-89f1-4880-bdad-2c2f763fdcfc.png)
 
+##### 8. Determine la reluctancia de un material con longitud de 0.28 m y área de sección transversal de 0.08 m^2 si la permeabilidad absoluta es de 150 x 10^(-7) Wb/At*m.
 
+##### *SECCIÓN 10-3 	 Dispositivos electromagnéticos*
 
-##### *SECCIÓN 9-1 	*
-##### 2.
+##### 10. De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?
 
-##### 2.
+##### 12. Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando el interruptor 1 (SW1) se cierra.
 
-##### 2.
+![image](https://user-images.githubusercontent.com/105671763/177651466-2167d704-c4d1-4c40-ab81-12f6e06672d8.png)
 
-##### 2.
+##### *SECCIÓN 10-4 	Histéresis magnética*
 
-##### 2.
+##### 14. ¿Cuál es la fuerza magnetizante en el problema 9 si la longitud del núcleo es de 0.2 m?
 
-##### 2.
+##### 16. En la figura 10-44, hay 500 vueltas. Determine 
+	(a) H (b) ∅ (c) f B
 
+![image](https://user-images.githubusercontent.com/105671763/177651708-036c9d03-22c6-4a6e-9703-fc4909c478f2.png)
 
-##### *SECCIÓN 9-1 	*
+##### *SECCIÓN 10-5 	Inducción electromagnética*
 
-##### 2.
+##### 18. De acuerdo con la ley de Faraday, ¿qué le sucede al voltaje inducido en una bobina dada si la razón de cambio del flujo magnético se duplica?
 
-##### 2.
+##### 20. Un campo magnético cambia a razón de 3500 x 10^(-3) Wb/s. ¿Cuánto voltaje se induce en una bobina de 500 vueltas colocada en el campo magnético?
 
-##### 2.
+##### *SECCIÓN 10-6 	 Aplicaciones de la inducción electromagnética*
 
+##### 22. En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?
 
-##### *SECCIÓN 9-1 	*
-##### 2.
+![image](https://user-images.githubusercontent.com/105671763/177652016-9f4da1dd-240e-4fbc-af2a-7ee5237028a2.png)
 
-##### 2.
+##### 24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje de cd de salida a su pico (alcanza un máximo)?
 
 ## 4. Video
 
