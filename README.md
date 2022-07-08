@@ -184,17 +184,23 @@ voltajes de nodo.
 
 ##### 2. En cierto campo magnético, el área de sección transversal es de 0.5 m^2 y el flujo es de 1500 μWb. ¿Cuál es la densidad de flujo?
 
+	B = ∅/A = 1500 μWb/0.5 m^2 = 3000 Wb/m^2
+
 ##### 4. En un lugar dado, suponga que el campo magnético terrestre es de 0.6 gauss. Exprese esta densidad de flujo en teslas. 
+
+	10^4 gauss = 1 T → (0.6 gauss/10^4 gauss)*(1 T) → 6x110^(-5) T 
 
 ##### *SECCIÓN 10-2 	 Electromagnetismo*
 
-##### 6. ¿Qué le sucede a la aguja de la brújula mostrada en la figura 10-9 cuando la corriente que circula a través del conductor se invierte?
+##### 6. ¿Qué le sucede a la aguja de la brújula mostrada en la figura 10-9 cuando la corriente que circula a través del conductor se invierte?
 
 ![image](https://user-images.githubusercontent.com/105671763/177651109-55b9341d-89f1-4880-bdad-2c2f763fdcfc.png)
 
+	Cambia de dirección.
+
 ##### 8. Determine la reluctancia de un material con longitud de 0.28 m y área de sección transversal de 0.08 m^2 si la permeabilidad absoluta es de 150 x 10^(-7) Wb/At*m.
 
-	
+	R = l/μA = 0.28 m/(150 x 10^(-7) Wb/At*m)(0.08 m^2) = 233333.33 At/wB
 
 ##### *SECCIÓN 10-3 	 Dispositivos electromagnéticos*
 
