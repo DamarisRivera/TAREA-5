@@ -10,12 +10,13 @@ PARCIAL 2
 ## 1. Objetivos 
   
 ### 1.1 Objetivo General
-        
 
+Aprender y desarrollar ejercicios por Análisis de ramas, lazos y nodos y resolver ejercicios de Magnetismo y Electromagnetismo, utilizando los conceptos aprendidos en cada capítulo.
 	
 ### 1.2 Objetivos Específicos
         
-
+- Realizar los problemas planteados en cada capítulo, indicando el proceso que ha sido utilizado.
+- Hacer mapas mentales donde se utilice ideas cortas que expliquen los conceptos de cada tema y permitan un entendimiento rápido del mismo.
 	
 ## 2. Marco Teórico
 
@@ -150,10 +151,12 @@ PARCIAL 2
 ##### 20. Escriba las ecuaciones de lazo para el circuito de la figura 9-29.
 
 ![image](https://user-images.githubusercontent.com/105671763/177649924-d14a276c-b790-4489-bbd1-f4b046566a7f.png)
+![image](https://user-images.githubusercontent.com/105671763/177931342-4822d417-9ecc-4006-9b97-e37fcfbde67c.png)
 
 ##### 22. Determine la corriente a través de cada resistor en la figura 9-29.
 
 ![image](https://user-images.githubusercontent.com/105671763/177649962-9da0f634-7862-4aad-88a7-21813641785d.png)
+![image](https://user-images.githubusercontent.com/105671763/177931289-f39d7167-9844-4647-8382-058b096c2770.png)
 
 ##### 24. Cuando se conecta un resistor de 10 kÆ desde la terminal A hasta la terminal B en la figura 9-30, ¿cuál
 es la corriente que circula a través de él?
@@ -267,7 +270,9 @@ voltajes de nodo.
 
 ## 5. Conclusiones
 
+- Los problemas realizados por Análisis de nodos, lazos y ramas se unen con los otros conocimientos aprendidos con anterioridad y permiten resolver los ejercicios de manera más simple, los problemas resueltos por Magnetismo y Electromagnetismo nos permite ver como funcionan los campos magneticos, como existen fuerzas que a pesar de no ser vistas se conoce que están presentes.
 
+- Se estudiaron los conceptos por cada capítulo permitiendonos resolver los problemas y entender de manera más clara como solucionar los ejercicios y como funciona en el mundo real con los conceptos estudiados.
 
 ## 6. Bibliografía
 
