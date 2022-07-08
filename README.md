@@ -215,7 +215,11 @@ voltajes de nodo.
 
 ##### 18. De acuerdo con la ley de Faraday, ¿qué le sucede al voltaje inducido en una bobina dada si la razón de cambio del flujo magnético se duplica?
 
+	Si la razón de cambio se duplica se crea un mayor número de vueltas que crea un mayor voltaje inducido.
+
 ##### 20. Un campo magnético cambia a razón de 3500 x 10^(-3) Wb/s. ¿Cuánto voltaje se induce en una bobina de 500 vueltas colocada en el campo magnético?
+
+	Vind = 500(3500 x 10^(-3)) = 1750 V 
 
 ##### *SECCIÓN 10-6 	 Aplicaciones de la inducción electromagnética*
 
@@ -223,7 +227,11 @@ voltajes de nodo.
 
 ![image](https://user-images.githubusercontent.com/105671763/177652016-9f4da1dd-240e-4fbc-af2a-7ee5237028a2.png)
 
+	Porque se necesita que pase un apéndice por el entrehierro del imán para inducir voltaje.
+
 ##### 24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje de cd de salida a su pico (alcanza un máximo)?
+
+	f = (60 rev/s)(60 s/min) = 3600 rpm
 
 ## 4. Video
 
