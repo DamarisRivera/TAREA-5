@@ -127,10 +127,12 @@ PARCIAL 2
 ##### 12. Resuelva para cada una de las corrientes de rama ilustradas en la figura 9-26
 
 ![image](https://user-images.githubusercontent.com/105671763/177649527-5cae172f-bf68-4ae7-a1c8-76c986491af0.png)
+![image](https://user-images.githubusercontent.com/105671763/177906211-aaaef240-5f11-4523-ab9e-a26bb8bdd0c5.png)
 
 ##### 14. Determine la corriente a través de cada resistor mostrado en la figura 9-27.
 
 ![image](https://user-images.githubusercontent.com/105671763/177649619-dd97cbb0-c37b-4e64-a135-b45c7b0e66f8.png)
+![image](https://user-images.githubusercontent.com/105671763/177907927-b3a23e78-69f1-4580-bb61-ee2731ed5700.png)
 
 ##### *SECCIÓN 9-3 	 Método de la corriente en lazos*
 
