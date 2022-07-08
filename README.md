@@ -145,6 +145,7 @@ PARCIAL 2
 ##### 18. Determine las corrientes de rama en la figura 9-28.
 
 ![image](https://user-images.githubusercontent.com/105671763/177649866-3dd55c5b-b8c4-4fdd-9756-99f4bd608104.png)
+![image](https://user-images.githubusercontent.com/105671763/177914124-751943c6-cadd-4d88-b3e0-b13fbb671d96.png)
 
 ##### 20. Escriba las ecuaciones de lazo para el circuito de la figura 9-29.
 
