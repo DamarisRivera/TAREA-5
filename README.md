@@ -178,6 +178,7 @@ voltajes de nodo.
 ##### *30. Determine el voltaje en los puntos A, B y C en la figura 9-34.
 
 ![image](https://user-images.githubusercontent.com/105671763/177650294-5e73456b-9a53-494d-9fcc-74293d63067e.png)
+![image](https://user-images.githubusercontent.com/105671763/177932619-1fefdb91-8ea8-434b-8a4b-714e08627536.png)
 
 #### CAPITULO 10 
 
