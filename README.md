@@ -161,6 +161,7 @@ Aprender y desarrollar ejercicios por Análisis de ramas, lazos y nodos y resolv
 ##### 24. Cuando se conecta un resistor de 10 kΩ desde la terminal A hasta la terminal B en la figura 9-30, ¿cuál es la corriente que circula a través de él?
 
 ![image](https://user-images.githubusercontent.com/105671763/177650017-2dfdbf2f-4afc-4d57-bfba-cf911695f6c8.png)
+![image](https://user-images.githubusercontent.com/105671763/177945320-4e989b1b-d31d-4f74-8399-0ddef91c7203.png)
 
 ##### *SECCIÓN 9-4 	Método del voltaje en nodos*
 
