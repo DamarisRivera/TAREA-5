@@ -79,6 +79,7 @@ PARCIAL 2
 ![image](https://user-images.githubusercontent.com/105671763/177891493-93e30aac-ac00-4cfd-8da0-f0aa8fc1eb9f.png)
 
 	Utilizando la calculadora:
+	1. Reemplazamos x=V1, y=V2, z=V3 y w=V4
 ![image](https://user-images.githubusercontent.com/105671763/177898440-825ef49e-5f60-4aa4-8776-0c50948bae8d.png)
 
 ![image](https://user-images.githubusercontent.com/105671763/177898464-c99a5c7c-3f87-4b33-9941-0d36152119f7.png)
@@ -101,6 +102,25 @@ PARCIAL 2
 ![image](https://user-images.githubusercontent.com/105671763/177899239-ae5f8526-1765-4524-84b1-9883e7ab2500.png)
 
 ##### 10. Resuelva las tres ecuaciones simultáneas del problema 7 con su calculadora.
+![image](https://user-images.githubusercontent.com/105671763/177899919-6efed354-b9b4-4b76-b904-9958cc487994.png)
+
+	Utilizando la calculadora:
+	1. Reemplazamos x=I1, y=I2, z=I3
+
+![image](https://user-images.githubusercontent.com/105671763/177900498-a792ffc8-264e-461f-9aaa-1408071dbe5e.png)
+
+![image](https://user-images.githubusercontent.com/105671763/177900531-169db789-9236-4208-8368-73feae6150de.png)
+
+![image](https://user-images.githubusercontent.com/105671763/177900562-20d952f5-2579-412f-8ea3-b0013543e6bd.png)
+
+![image](https://user-images.githubusercontent.com/105671763/177900600-a2d66212-8f86-4551-845a-7d9933b62d22.png)
+
+![image](https://user-images.githubusercontent.com/105671763/177900618-372c4e79-1309-4922-9989-84873436d50d.png)
+
+![image](https://user-images.githubusercontent.com/105671763/177900677-abbc2039-ed2f-4b54-b379-0bf146fb5ec3.png)
+
+	Las corrientes son:
+![image](https://user-images.githubusercontent.com/105671763/177900925-6324a272-a029-443a-8f1a-d95d45f3804a.png)
 
 ##### *SECCIÓN 9-2	 Método de la corriente en ramas*
 
