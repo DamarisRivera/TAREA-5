@@ -167,6 +167,7 @@ Aprender y desarrollar ejercicios por Análisis de ramas, lazos y nodos y resolv
 ##### 26. En la figura 9-32, use el método del voltaje en nodos para determinar el voltaje presente en el punto A con respecto a tierra. 
 
 ![image](https://user-images.githubusercontent.com/105671763/177650153-beaf6f49-be15-4b21-ace4-e76623b4913e.png)
+![image](https://user-images.githubusercontent.com/105671763/177936518-b5787ac6-2626-42b5-b757-efb2a18ef3bf.png)
 
 ##### 28. Escriba las ecuaciones de voltaje de nodo para la figura 9-29. Use su calculadora para determinar los voltajes de nodo.
 
