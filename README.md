@@ -158,22 +158,20 @@ Aprender y desarrollar ejercicios por Análisis de ramas, lazos y nodos y resolv
 ![image](https://user-images.githubusercontent.com/105671763/177649962-9da0f634-7862-4aad-88a7-21813641785d.png)
 ![image](https://user-images.githubusercontent.com/105671763/177931289-f39d7167-9844-4647-8382-058b096c2770.png)
 
-##### 24. Cuando se conecta un resistor de 10 kÆ desde la terminal A hasta la terminal B en la figura 9-30, ¿cuál
-es la corriente que circula a través de él?
+##### 24. Cuando se conecta un resistor de 10 kÆ desde la terminal A hasta la terminal B en la figura 9-30, ¿cuál es la corriente que circula a través de él?
 
 ![image](https://user-images.githubusercontent.com/105671763/177650017-2dfdbf2f-4afc-4d57-bfba-cf911695f6c8.png)
 
 ##### *SECCIÓN 9-4 	Método del voltaje en nodos*
 
-##### 26. En la figura 9-32, use el método del voltaje en nodos para determinar el voltaje presente en el punto A
-con respecto a tierra. 
+##### 26. En la figura 9-32, use el método del voltaje en nodos para determinar el voltaje presente en el punto A con respecto a tierra. 
 
 ![image](https://user-images.githubusercontent.com/105671763/177650153-beaf6f49-be15-4b21-ace4-e76623b4913e.png)
 
-##### 28. Escriba las ecuaciones de voltaje de nodo para la figura 9-29. Use su calculadora para determinar los
-voltajes de nodo.
+##### 28. Escriba las ecuaciones de voltaje de nodo para la figura 9-29. Use su calculadora para determinar los voltajes de nodo.
 
 ![image](https://user-images.githubusercontent.com/105671763/177650244-9a9d9529-8b18-472c-a632-7dbf86bd3529.png)
+![image](https://user-images.githubusercontent.com/105671763/177934882-303ead94-d6d1-440d-bd07-245d8fdca7f7.png)
 
 ##### *30. Determine el voltaje en los puntos A, B y C en la figura 9-34.
 
