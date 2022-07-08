@@ -158,7 +158,7 @@ Aprender y desarrollar ejercicios por Análisis de ramas, lazos y nodos y resolv
 ![image](https://user-images.githubusercontent.com/105671763/177649962-9da0f634-7862-4aad-88a7-21813641785d.png)
 ![image](https://user-images.githubusercontent.com/105671763/177931289-f39d7167-9844-4647-8382-058b096c2770.png)
 
-##### 24. Cuando se conecta un resistor de 10 kÆ desde la terminal A hasta la terminal B en la figura 9-30, ¿cuál es la corriente que circula a través de él?
+##### 24. Cuando se conecta un resistor de 10 kΩ desde la terminal A hasta la terminal B en la figura 9-30, ¿cuál es la corriente que circula a través de él?
 
 ![image](https://user-images.githubusercontent.com/105671763/177650017-2dfdbf2f-4afc-4d57-bfba-cf911695f6c8.png)
 
