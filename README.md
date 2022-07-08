@@ -139,6 +139,9 @@ PARCIAL 2
 ##### 16. Escriba el determinante característico para las ecuaciones:
 ![image](https://user-images.githubusercontent.com/105671763/177891533-b4b858d4-0e99-48d1-839a-d58f81e3baf7.png)
 
+	El determinante caracteristico es:
+![image](https://user-images.githubusercontent.com/105671763/177909861-29f2b6fa-a8bf-4e75-980e-58ecd8377526.png)
+
 ##### 18. Determine las corrientes de rama en la figura 9-28.
 
 ![image](https://user-images.githubusercontent.com/105671763/177649866-3dd55c5b-b8c4-4fdd-9756-99f4bd608104.png)
