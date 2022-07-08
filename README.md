@@ -266,7 +266,7 @@ Aprender y desarrollar ejercicios por Análisis de ramas, lazos y nodos y resolv
 
 ## 4. Video
 
-
+https://youtu.be/2ssFmdFPpno
 
 ## 5. Conclusiones
 
