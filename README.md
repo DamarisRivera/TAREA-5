@@ -63,9 +63,42 @@ PARCIAL 2
 ##### 6. Determine I3 en el ejemplo 9-4.
 
 ![image](https://user-images.githubusercontent.com/105671763/177655386-deb03436-27a2-4e7f-a959-a1537c9d8ca8.png)
+	
+	Resolvemos por determinantes.
+	1. Obtenemos el determinante característico:
+![image](https://user-images.githubusercontent.com/105671763/177891256-35dc61b7-060f-4638-ba4a-d1135dbbd77a.png)
 
+	2. Encontramos el determinante para la corriente I3:
+![image](https://user-images.githubusercontent.com/105671763/177891277-c305659e-ed06-493d-a3e6-f4fb6ac751e4.png)
+
+	3. Dividimos los dos determinantes para encontrar la corriente I3:
+![image](https://user-images.githubusercontent.com/105671763/177891296-60c44ace-83a0-4275-8acf-2400bb1943de.png)
 	
 ##### 8. Determine V1, V2, V3 y V4 resolviendo el siguiente conjunto de ecuaciones con una calculadora:
+
+![image](https://user-images.githubusercontent.com/105671763/177891493-93e30aac-ac00-4cfd-8da0-f0aa8fc1eb9f.png)
+
+	Utilizando la calculadora:
+![image](https://user-images.githubusercontent.com/105671763/177898440-825ef49e-5f60-4aa4-8776-0c50948bae8d.png)
+
+![image](https://user-images.githubusercontent.com/105671763/177898464-c99a5c7c-3f87-4b33-9941-0d36152119f7.png)
+
+![image](https://user-images.githubusercontent.com/105671763/177898480-562f3c36-e155-4afa-be63-e964f32f6197.png)
+
+![image](https://user-images.githubusercontent.com/105671763/177898501-45b57c60-4bed-4d04-9e03-d38bdb9bde09.png)
+
+![image](https://user-images.githubusercontent.com/105671763/177898556-548aabaa-56ee-4a3a-83b9-757cae1bb4ce.png)
+
+![image](https://user-images.githubusercontent.com/105671763/177898701-3a7493b1-683b-4064-88a8-76956f4c7bc7.png)
+
+![image](https://user-images.githubusercontent.com/105671763/177898729-688d4ac6-5f3b-4767-90bf-7e592184afd3.png)
+
+![image](https://user-images.githubusercontent.com/105671763/177898752-5eb2ed73-9c96-47f0-8def-cdd420bf5e73.png)
+
+![image](https://user-images.githubusercontent.com/105671763/177898791-da946fb8-9dc0-47d9-94c6-de0880a6cdad.png)
+
+	Los voltajes son:
+![image](https://user-images.githubusercontent.com/105671763/177899239-ae5f8526-1765-4524-84b1-9883e7ab2500.png)
 
 ##### 10. Resuelva las tres ecuaciones simultáneas del problema 7 con su calculadora.
 
@@ -82,10 +115,7 @@ PARCIAL 2
 ##### *SECCIÓN 9-3 	 Método de la corriente en lazos*
 
 ##### 16. Escriba el determinante característico para las ecuaciones:
-
-0.045IA + 0.130IB + 0.066IC = 0
-0.177IA + 0.0420IB + 0.109IC = 12
-0.078IA + 0.196IB + 0.029IC = 3.0
+![image](https://user-images.githubusercontent.com/105671763/177891533-b4b858d4-0e99-48d1-839a-d58f81e3baf7.png)
 
 ##### 18. Determine las corrientes de rama en la figura 9-28.
 
