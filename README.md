@@ -194,22 +194,44 @@ voltajes de nodo.
 
 ##### 8. Determine la reluctancia de un material con longitud de 0.28 m y área de sección transversal de 0.08 m^2 si la permeabilidad absoluta es de 150 x 10^(-7) Wb/At*m.
 
+	
+
 ##### *SECCIÓN 10-3 	 Dispositivos electromagnéticos*
 
 ##### 10. De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?
+
+	El émbolo se retrae y comprime al resorte. 
 
 ##### 12. Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando el interruptor 1 (SW1) se cierra.
 
 ![image](https://user-images.githubusercontent.com/105671763/177651466-2167d704-c4d1-4c40-ab81-12f6e06672d8.png)
 
+	Se conecta el interruptor y permite que se encienda la lámpara 2.
+
 ##### *SECCIÓN 10-4 	Histéresis magnética*
 
 ##### 14. ¿Cuál es la fuerza magnetizante en el problema 9 si la longitud del núcleo es de 0.2 m?
 
+	Fm = NI = (50)(3) = 150 At
+	H = Fm/l = 150/0.2 = 750 At/m
+
 ##### 16. En la figura 10-44, hay 500 vueltas. Determine 
-	(a) H (b) ∅ (c) f B
+	(a) H (b) ∅ (c) B
 
 ![image](https://user-images.githubusercontent.com/105671763/177651708-036c9d03-22c6-4a6e-9703-fc4909c478f2.png)
+
+	(a) H = Fm/l
+	    Fm = NI = 500(0.25) = 125 At
+	    30 cm → 0.3 m
+	    H = 125/0.3 m = 416.67 At/m
+	
+	(b) ∅ = Fm/R
+	    Fm = NI = 500(0.25) = 125 At
+	    ∅ = 125 At/250 = 5 
+	
+	(c) B = ∅/A
+	    2 cm → 0.02 m
+	    B = 5/0.02 m = 250 
 
 ##### *SECCIÓN 10-5 	Inducción electromagnética*
 
